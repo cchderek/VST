@@ -8,4 +8,5 @@ To run the experiment: type runVisualSearchTask in the command window
 All modifiable settings are stored in settingsVisualSearchTask
 
 Created by Derek Chan and Hugo McGurran 
+
 Developed on MATLAB version 2016a/b
