@@ -1,7 +1,10 @@
 # VST
 Visual Search Task Experiment
 
-Developed by Derek Chan and Hugo McGurran on MATLAB version 2016a/b
+VST is an experiment to test the reaction time of participants in locating the target (the odd one out).
 
-settingsVisualSearchTask contains modifiable variables for the experiment
-runVisualSearchTask to start the experiment
+To run the experiment: type runVisualSearchTask in the command window
+All modifiable settings are stored in settingsVisualSearchTask
+
+Created by Derek Chan and Hugo McGurran 
+Developed on MATLAB version 2016a/b
